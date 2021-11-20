@@ -1,0 +1,28 @@
+{
+  "name": "node-js-and-express-todo-app",
+  "version": "1.0.0",
+  "description": "todo-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darmayasa221/Node-Js-and-Express-Todo-App.git"
+  },
+  "keywords": [
+    "express-todo-app"
+  ],
+  "author": "darma_yasa221",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darmayasa221/Node-Js-and-Express-Todo-App/issues"
+  },
+  "homepage": "https://github.com/darmayasa221/Node-Js-and-Express-Todo-App#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
